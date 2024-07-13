@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+body
+{
+	background-color: #000000;
+}
+.navBar
+{
+/*	removes bullets*/
+	list-style-type: none;
+	margin: 0;
+  padding: 0;
+}
