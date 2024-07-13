@@ -11,3 +11,16 @@ body
 	margin: 0;
   padding: 0;
 }
+.navList
+{
+	float: left;
+	display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+a{
+text-decoration: none;
+     display: block;
+     width: 100%;
+     height: 100%;
+}
