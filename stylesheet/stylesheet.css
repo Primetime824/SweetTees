@@ -2,7 +2,7 @@
 /* CSS Document */
 body
 {
-	background-color: #000000;
+	background-color: #0f4c81;
 }
 .navBar
 {
@@ -10,17 +10,18 @@ body
 	list-style-type: none;
 	margin: 0;
   padding: 0;
+
 }
 .navList
 {
 	float: left;
 	display: block;
   padding: 8px;
-  background-color: #6b8d53;
 	font-size: 50px;
 	font-family: "trilby", serif;
 font-weight: 900;
 font-style: normal;
+		
 	
 }
 a 
