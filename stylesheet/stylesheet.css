@@ -30,8 +30,7 @@ text-decoration: none;
 	color:#e6ddc5;
 	text-shadow: 1px 1px 25px black;
 }
-.tab:hover
+.active
 {
-	color:#e6ddc5;
-	text-shadow: 1px 1px 5px green;
+	color: red;
 }
