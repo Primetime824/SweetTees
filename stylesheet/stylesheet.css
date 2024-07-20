@@ -27,10 +27,11 @@ text-decoration: none;
      display: block;
      width: 100%;
      height: 100%;
-	color:white;
+	color:#e6ddc5;
 	text-shadow: 1px 1px 25px black;
 }
 .tab:hover
 {
 	color:#e6ddc5;
+	text-shadow: 1px 1px 5px green;
 }
