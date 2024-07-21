@@ -8,8 +8,6 @@ body
 {
 /*	removes bullets*/
 	list-style-type: none;
-	
-
 }
 .navList
 {
@@ -29,8 +27,18 @@ text-decoration: none;
      height: 100%;
 	color:#e6ddc5;
 	text-shadow: 1px 1px 25px black;
+	margin-right: 10px;
 }
 .active
 {
 	color: red;
+}
+.profilepic
+{
+	border-radius: 250px;
+	width: 300px;
+}
+.profile
+{
+margin-bottom: 10px;	
 }
