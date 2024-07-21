@@ -2,7 +2,7 @@
 /* CSS Document */
 body
 {
-	background-color: #0f4c81;
+	background-color: black;
 }
 .navBar
 {
@@ -40,5 +40,6 @@ text-decoration: none;
 }
 .profile
 {
-margin-bottom: 10px;	
+padding-top: 300px;
+margin-left: 300px;	
 }
