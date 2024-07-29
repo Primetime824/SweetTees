@@ -45,11 +45,14 @@ text-decoration: none;
 {
 	border-radius: 150px;
 	width: 300px;
+	margin-right: -20%;
 }
 .profile
 {
 padding-top: 0px;
-margin-left: 300px;	
+margin-left: 10px;	
+padding-right: 0%;
+margin-right: 0%;
 }
 .logo
 {
@@ -65,9 +68,28 @@ font-style: normal;
 	margin-left: 20%;
 	margin-right: 22%;
 	color: white;
+	-webkit-text-stroke: .5px #6b4a1c;
+}
+p
+{
+	color: white;
+	float: right;
+	margin-left: 17%;
+	margin-right: 30%;
+	font-size: 33px;
+	font-family: "freude", sans-serif;
+font-weight: 400;
+font-style: normal;
+	-webkit-text-stroke: 1px #6b4a1c;
 }
 .subcontainers
 {
 	background-color: black;
 	padding-bottom: 5%;
+}
+.fb-page
+{
+	float: none;
+	margin-top: -26%;
+	margin-left: 73%;
 }
