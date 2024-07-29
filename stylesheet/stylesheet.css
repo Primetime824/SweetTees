@@ -2,7 +2,7 @@
 /* CSS Document */
 body
 {
-	background-color: black;
+	background-color: white;
 }
 .navBar
 {
@@ -12,7 +12,7 @@ body
 }
 .containers
 {
-	background-color: white;
+	background-color: black;
     padding-bottom: 0px;
 	margin: -10px;
 	
@@ -32,8 +32,9 @@ font-style: normal;
 text-decoration: none;
      width: 100%;
      height: 100%;
-	color:#e6ddc5;
-	text-shadow: 1px 1px 15px black;
+	color:#6b4a1c;
+-webkit-text-stroke: 1px white;
+
 }
 .active
 {
@@ -49,4 +50,10 @@ text-decoration: none;
 {
 padding-top: 300px;
 margin-left: 300px;	
+}
+.logo
+{
+	width: 6%;
+	margin-left: 47%;
+	
 }
