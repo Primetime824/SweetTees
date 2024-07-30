@@ -260,6 +260,24 @@ font-style: normal;
     flex: 50%;
     max-width: 50%;
   }
+	.mission
+	{
+		margin-left: 42%;
+		font-size: 200%;
+		margin-top: -4%;
+		margin-right: 1%;
+	}
+	.logoMission
+	{
+		width: 40%;
+		margin-top: -4%;
+	}
+	.missionHeader
+	{
+		margin-left: 3%;
+		margin-right: -1%;
+		font-size: 400%
+	}
 }
 /*    6.7 inch screen size*/
 @media (max-width: 520px)
