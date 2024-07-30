@@ -281,6 +281,11 @@ font-style: normal;
 	}
 	.subcontainers
 	{
-		
+		padding-bottom: 40%;
+	}
+	.missionHeader
+	{
+		margin-left: 5%;
+		font-size: 200%;
 	}
 }
