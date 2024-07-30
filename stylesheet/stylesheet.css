@@ -321,7 +321,7 @@ font-style: normal;
 	}
 	.subcontainers
 	{
-		padding-bottom: 40%;
+		padding-bottom: 50%;
 	}
 	.missionHeader
 	{
@@ -332,4 +332,21 @@ font-style: normal;
     flex: 100%;
     max-width: 100%;
   }
+}
+@media (max-width: 350px)
+{
+	.subcontainers
+	{
+		padding-bottom: 80%;
+	}
+	.missionHeader
+	{
+		font-size: 150%;
+	}
+	.mission
+	{
+		margin-right: 1%;
+		margin-left: 3%;
+		font-size: 134%;
+	}
 }
