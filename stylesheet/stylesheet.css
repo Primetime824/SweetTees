@@ -431,6 +431,26 @@ font-style: normal;
 		margin-left: 7%;
 		font-size: 400%
 	}
+	.contactHeader
+	{
+		font-size: 220%;
+		margin-bottom: -4%;
+	}
+	.locale
+	{
+		font-size: 100%;
+		margin-left: 20%;
+		float: left;
+	}
+	.address
+	{
+		font-size: 250%;
+	}
+	#g-mapdisplay
+	{
+		margin-left: 0%;
+		margin-right: 10%;
+	}
 }
 @media (max-width: 380px)
 {
