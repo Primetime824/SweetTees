@@ -161,6 +161,7 @@ font-weight: 400;
 font-style: normal;
 	font-size: 50px;
 	text-align: center;
+	margin-left: 25px;
 }
 .phone
 {
@@ -171,10 +172,22 @@ font-style: normal;
 {
 	text-decoration: none;
 	color: white;
+	margin-left: 59px;
+	color:white;
+	font-family: "acier-bat-solid", sans-serif;
+font-weight: 400;
+font-style: normal;
+	font-size: 50px;
 }
 .contactHeader
 {
 	text-align: center;
+	font-size: 100px;
+}
+#g-mapdisplay
+{
+	margin-left: 15px;
+	
 }
 /* Small Desktops and laptops */
 @media (min-width: 1201px) and (max-width:1600px)
