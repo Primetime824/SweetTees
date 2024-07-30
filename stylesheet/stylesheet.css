@@ -478,4 +478,12 @@ font-style: normal;
 	{
 		margin-left: 4%;
 	}
+	.locale
+	{
+		margin-left: 16%;
+	}
+	.address
+	{
+		margin-left: 9%;
+	}
 }
