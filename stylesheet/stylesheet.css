@@ -124,6 +124,11 @@ font-style: normal;
 	padding-bottom: 10%;
 	margin-left: 10px
 }
+.missionHeader
+{
+	margin-left: 30%;
+	font-size: 70px;
+}
 /* Small Desktops and laptops */
 @media (min-width: 1201px) and (max-width:1600px)
 {
