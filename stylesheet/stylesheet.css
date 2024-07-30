@@ -203,6 +203,15 @@ font-style: normal;
 		margin-top: 1%;
 		margin-left: 40%;
 	}
+	h1{
+		margin-left: 4%;
+		margin-right: 2%;
+		font-size: 280%;
+	}
+	.profile
+	{
+		margin-top: -2%;
+	}
 }
 @media (min-width: 600px) and (max-width: 800px)
 {
