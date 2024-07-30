@@ -80,7 +80,7 @@ p
 	font-family: "freude", sans-serif;
 font-weight: 400;
 font-style: normal;
-	-webkit-text-stroke: 1px #6b4a1c;
+	-webkit-text-stroke: 1px #144d29;
 }
 .subcontainers
 {
@@ -115,7 +115,7 @@ h2{
 	font-family: "freude", sans-serif;
 font-weight: 400;
 font-style: normal;
-	-webkit-text-stroke: 1px #6b4a1c;
+	-webkit-text-stroke: 1px #144d29;
 }
 .logoMission
 {
@@ -173,11 +173,11 @@ font-style: normal;
 	text-decoration: none;
 	color: white;
 	margin-left: 59px;
-	color:white;
 	font-family: "acier-bat-solid", sans-serif;
 font-weight: 400;
 font-style: normal;
 	font-size: 50px;
+	-webkit-text-stroke: 2px #144d29;
 }
 .contactHeader
 {
@@ -234,6 +234,17 @@ font-style: normal;
 	.galleryHeader
 	{
 		margin-left: 34%;
+	}
+	.locale
+	{
+		margin-top: 1%;
+		margin-left: 9%;
+		margin-right: 1%;
+		font-size: 271%;
+	}
+	.contactHeader
+	{
+		margin-bottom: -1.5%;
 	}
 	
 }
