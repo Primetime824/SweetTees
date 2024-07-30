@@ -147,6 +147,12 @@ font-style: normal;
   vertical-align: middle;
   width: 100%;
 }
+.galleryHeader
+{
+	font-size: 80px;
+	margin-bottom: 1px;
+	margin-left: 700px;
+}
 /* Small Desktops and laptops */
 @media (min-width: 1201px) and (max-width:1600px)
 {
@@ -189,6 +195,10 @@ font-style: normal;
 		margin-left: 32%;
 		margin-right: 1%;
 	}
+	.galleryHeader
+	{
+		margin-left: 34%;
+	}
 	
 }
 /*tablets and large smart phones screens*/
@@ -229,6 +239,10 @@ font-style: normal;
 	.profile
 	{
 		margin-top: -2%;
+	}
+	.galleryHeader
+	{
+		margin-left: 30%;
 	}
 }
 @media (min-width: 600px) and (max-width: 800px)
@@ -277,6 +291,10 @@ font-style: normal;
 		margin-left: 3%;
 		margin-right: -1%;
 		font-size: 400%
+	}
+	.galleryHeader
+	{
+		margin-left: 19%;
 	}
 }
 /*    6.7 inch screen size*/
@@ -332,8 +350,13 @@ font-style: normal;
     flex: 100%;
     max-width: 100%;
   }
+	.galleryHeader
+	{
+		margin-left: 7%;
+		font-size: 400%
+	}
 }
-@media (max-width: 350px)
+@media (max-width: 380px)
 {
 	.subcontainers
 	{
@@ -348,5 +371,14 @@ font-style: normal;
 		margin-right: 1%;
 		margin-left: 3%;
 		font-size: 134%;
+	}
+	h1
+	{
+		font-size: 96%;
+		margin-left: 3%;
+	}
+	.galleryHeader
+	{
+		margin-left: 4%;
 	}
 }
