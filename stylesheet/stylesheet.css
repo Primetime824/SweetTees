@@ -141,7 +141,7 @@ font-style: normal;
 	{
 		font-size: 150%;
 		margin-left: 26%;
-		margin-top: -39%;	
+		margin-top: -34%;	
 	}
 	.fb-page
 	{
@@ -174,7 +174,6 @@ font-style: normal;
 		margin-left: 10%;
 	}
 }
-/*tablets and large smart phones screens*/
 @media (min-width: 600px) and (max-width: 800px)
 {
 	.navList
@@ -240,5 +239,9 @@ font-style: normal;
 		font-size: 140%;
 		margin-left: 1%;
 		margin-top: 40%;
+	}
+	.subcontainers
+	{
+		
 	}
 }
