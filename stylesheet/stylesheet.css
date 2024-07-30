@@ -137,8 +137,8 @@ font-style: normal;
 
 /* Create four equal columns that sits next to each other */
 .column {
-  flex: 25%;
-  max-width: 24.57%;
+  flex: 2%;
+  max-width: 25%;
   padding: 0 4px;
 }
 
