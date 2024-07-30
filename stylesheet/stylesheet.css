@@ -153,6 +153,29 @@ font-style: normal;
 	margin-bottom: 1px;
 	margin-left: 700px;
 }
+.locale
+{
+	color:white;
+	font-family: "acier-bat-solid", sans-serif;
+font-weight: 400;
+font-style: normal;
+	font-size: 50px;
+	text-align: center;
+}
+.phone
+{
+	text-decoration: none;
+	color: white;
+}
+.address
+{
+	text-decoration: none;
+	color: white;
+}
+.contactHeader
+{
+	text-align: center;
+}
 /* Small Desktops and laptops */
 @media (min-width: 1201px) and (max-width:1600px)
 {
